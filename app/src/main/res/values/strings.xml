@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LockThings</string>
+    <string name="tvTitle_txt">LockThings</string>
+    <string name="btnLock_txt">Atribuir Chave ao Cadeado</string>
+    <string name="btnRegisterLock_txt">Registrar Tag</string>
+    <string name="etTagName_hint">Escolha a tag</string>
+    <string name="btnToggleLock_txt">Fechar Cadeado</string>
+</resources>
